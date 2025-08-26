@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Sets character encoding to UTF-8 for supporting most characters -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Makes the page responsive -->
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <!-- Ensures compatibility with older IE versions -->
+    <title>Form</title>
+    <!-- Sets the title of the webpage -->
+  </head>
+  <body>
+    <h3>Form</h3>
+    <!-- Heading for the form section -->
+
+    <form action="example.php">
+      <!-- Defines a form to collect and submit user data -->
+      <input type="text" placeholder="username" />
+      <!-- Input field for username -->
+      <br />
+      <!-- Adds a line break for spacing -->
+
+      <input type="password" placeholder="password" />
+      <!-- Input field for password, masks input for security -->
+      <br />
+      <!-- Adds a line break for spacing -->
+
+      <h5>Select your class</h5>
+      <!-- Subheading for the radio button group -->
+      <label for="101">
+        <input type="radio" value="class XI" name="class" id="101" />
+        <!-- Radio button for Class XI, allows single selection -->
+        class XI
+      </label>
+      <br />
+      <!-- Adds a line break for spacing -->
+      <label for="102">
+        <input type="radio" value="class XII" name="class" id="102" />
+        <!-- Radio button for Class XII, groups with the same "name" -->
+        class XII
+      </label>
+      <hr />
+      <!-- Adds a horizontal line to separate sections -->
+
+      <h5>Select your favourite subject</h5>
+      <!-- Subheading for the checkbox group -->
+      <label for="math">
+        <input type="checkbox" value="math" name="subject" id="101" />
+        <!-- Checkbox for Math, allows multiple selections -->
+        Math
+      </label>
+      <label for="physics">
+        <input type="checkbox" value="physics" name="subject" id="102" />
+        <!-- Checkbox for Physics -->
+        Physics
+      </label>
+      <label for="chemistry">
+        <input type="checkbox" value="Chemistry" name="subject" id="103" />
+        <!-- Checkbox for Chemistry -->
+        Chemistry
+      </label>
+      <label for="computer science">
+        <input
+          type="checkbox"
+          value="Computer Science"
+          name="subject"
+          id="104"
+        />
+        <!-- Checkbox for Computer Science -->
+        Computer Science
+      </label>
+      <hr />
+      <!-- Adds a horizontal line to separate sections -->
+
+      <h5>Select your city</h5>
+      <!-- Subheading for the dropdown menu -->
+      <select name="city" id="101">
+        <!-- Dropdown menu for selecting a city -->
+        <option value="Nagaon">Nagaon</option>
+        <!-- Dropdown option for Nagaon -->
+        <option value="Guwahati">Guwahati</option>
+        <!-- Dropdown option for Guwahati -->
+        <option value="Jorhat">Jorhat</option>
+        <!-- Dropdown option for Jorhat -->
+        <option value="Dibrugarh">Dibrugarh</option>
+        <!-- Dropdown option for Dibrugarh -->
+      </select>
+      <hr />
+      <!-- Adds a horizontal line to separate sections -->
+
+      <textarea name="feedback" id="101" placeholder="Feedback"></textarea>
+      <!-- Text area for entering feedback -->
+      <br />
+      <!-- Adds a line break for spacing -->
+
+      <input type="submit" value="submit" />
+      <!-- Button to submit the form -->
+    </form>
+  </body>
+</html>

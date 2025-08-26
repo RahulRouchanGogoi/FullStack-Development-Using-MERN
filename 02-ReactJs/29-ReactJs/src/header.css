@@ -1,0 +1,50 @@
+.header {
+  background-color: blueviolet;
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.header ul {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
+  width: 350px;
+  
+}
+
+.header ul li div a{
+    color: white;
+  text-decoration: none;
+
+}
+
+.linkLogo
+{
+   
+    text-decoration: none;
+    color: white;
+}
+
+.logo
+{
+     display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+    font-weight: 600;
+    
+}
+
+.collegeLink
+{
+text-decoration: none;
+width: 300px;
+font-size: 20px;
+margin: 10px;
+}
+
+.active
+{
+  font-weight: 700;
+}

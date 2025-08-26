@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "name": "Rahul Rouchan Gogoi",
+      "age": "24",
+      "email": "rahulrouchangogoi@gmail.com",
+      "id": "ce59"
+    },
+    {
+      "name": "Arjun Rongpi Singh",
+      "age": "10",
+      "email": "arjun@gmail.in",
+      "id": "8175"
+    },
+    {
+      "name": "Disha Kalita",
+      "age": 24,
+      "email": "disha@gmail.com",
+      "id": "1732"
+    },
+    {
+      "name": "Abinash Sagar Bora",
+      "age": 23,
+      "email": "abinash@gmail.com",
+      "id": "caef"
+    },
+    {
+      "name": "Jubismita Bora",
+      "age": 23,
+      "email": "jubismita@gmail.com",
+      "id": "4dfb"
+    }
+  ]
+}
