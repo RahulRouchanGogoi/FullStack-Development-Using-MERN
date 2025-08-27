@@ -132,7 +132,7 @@ The **mini project (03-Backend → 09-NodeJs)** is a **MERN-based CRUD applicati
 ## 👨‍💻 Author
 **Rahul Rouchan Gogoi**  
 📧 [rahulrouchangogoi@gmail.com](mailto:rahulrouchangogoi@gmail.com)  
-🔗 [LinkedIn]([https://www.linkedin.com/in/rahulrouchangogoi](http://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r))  
+🔗 [LinkedIn](http://www.linkedin.com/in/rahul-rouchan-gogoi-04072001r)  
 💻 [GitHub](https://github.com/rahulrouchangogoi)
 
 ---
