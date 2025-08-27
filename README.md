@@ -128,3 +128,13 @@ The **mini project (03-Backend → 09-NodeJs)** is a **MERN-based CRUD applicati
 1. Clone the repository:  
    ```bash
    git clone https://github.com/your-username/your-repo.git
+
+## 👨‍💻 Author
+**Rahul Rouchan Gogoi**  
+📧 [rahulrouchangogoi@gmail.com](mailto:rahulrouchangogoi@gmail.com)  
+📞 +91 9678003044  
+🔗 [LinkedIn](https://www.linkedin.com/in/rahulrouchangogoi)  
+💻 [GitHub](https://github.com/rahulrouchangogoi)
+
+---
+
